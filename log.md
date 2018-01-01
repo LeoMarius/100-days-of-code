@@ -1,22 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: December 31, 2017
+
+**Today's Progress**: Cleaned and pushed on github the videoVerrePlayer.
+
+**Thoughts:** Was a code I left on side more than 6 month ago, still complicated to find back your marks and understand eveithing on it, still a lot of work to do on it.
+
+**Link to work:** [videoVerrePlayer](https://github.com/LeoMarius/videoVerrePlayer)
+
+
+
+### Day 2: January 01, 2018 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Setting up a Mongodb Atlas data base.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I watched mongobd atlas video tutorials up to the video 11, the cluster is online and ip whitelist done, still trying to connect my app to the db.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**: [ Getting started with MongoDB Atlas tutorials](https://www.youtube.com/watch?v=tpz-6Trd1UI&list=PL4RCxklHWZ9smTpR3hUdq53Su601yCPLj&index=8)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+-------------
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
