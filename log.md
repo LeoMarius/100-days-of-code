@@ -8,10 +8,9 @@
 
 **Link to work:** [videoVerrePlayer](https://github.com/LeoMarius/videoVerrePlayer)
 
-
+-------------
 
 ### Day 2: January 01, 2018 
-##### (delete me or comment me out)
 
 **Today's Progress**: Setting up a Mongodb Atlas data base.
 
@@ -19,18 +18,19 @@
 
 **Link(s) to work**: [ Getting started with MongoDB Atlas tutorials](https://www.youtube.com/watch?v=tpz-6Trd1UI&list=PL4RCxklHWZ9smTpR3hUdq53Su601yCPLj&index=8)
 
+-------------
 
+### Day 3: January 02, 2018 
+
+**Today's Progress**: Setting up an express.js project and link my database with it.
+
+**Thoughts**: Still not working, I manage to make the "MongoDB compass" work and edit manually the base, get the right adress to connect to my database but I still doesnt success in reading or editing anything...
+The guides was using older versions of Mongodb, now working using the official doc.
+
+**Link(s) to work**:
+-1. [Node and mongodb tutorial](https://zestedesavoir.com/tutoriels/312/debuter-avec-mongodb-pour-node-js/)
+-2. [W3schools help](https://www.w3schools.com/nodejs/nodejs_mongodb.asp)
+-3. [Mongodb Node Quick start](http://mongodb.github.io/node-mongodb-native/3.0/quick-start/quick-start/)
 
 -------------
 
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
