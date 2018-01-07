@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+
+### Day 8: January 06, 2018 
+
+**Today's Progress**: Complete the FreeCodecamp parts on jQuery
+
+**Thoughts**: Things I already knew but it's always nice to refresh the bases.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+
+-----------
+
+### Day 7: January 06, 2018 
+
+**Today's Progress**: Complete the FreeCodecamp parts in html css and Bootstap
+
+**Thoughts**: Things I already knew but it's always nice to refresh the bases.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+
+-----------
+
 ### Day 6: January 05, 2018 
 
 **Today's Progress**: Finishing the first part of the budget manager tutorial ans start codecamp html css
