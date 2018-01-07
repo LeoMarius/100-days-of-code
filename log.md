@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 05, 2018 
+
+**Today's Progress**: Finishing the first part of the budget manager tutorial ans start codecamp html css
+
+**Thoughts**: I just finish the first part of the budget manager tutorial and do the 25 first exercise of freecodecamp in html css.
+
+**Link(s) to work**: 
+-1. [Budget Manager Tutorial part 1](https://codeburst.io/building-a-budget-manager-with-vue-js-and-node-js-part-i-f3d7311822a8)
+-2. [FreeCodeCamp](https://www.freecodecamp.org/challenges/nest-an-anchor-element-within-a-paragraph)
+
+-------------
+
 ### Day 5: January 04, 2018 
 
-**Today's Progress**: Continue on the Building a budget manager tutorial
+**Today's Progress**: Continue on the "Building a budget manager" tutorial
 
 **Thoughts**: Much highter skill level than me... I manage to understand the essential but it's slow and complicated, I'm at the half of part 1.
 I discovered about the "module_alias" package and how it's working, and I slowly start to understand how the modules are working together. 
