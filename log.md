@@ -1,14 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 08, 2018 
 
-### Day 8: January 06, 2018 
+**Today's Progress**: Continue on FreeCodecamp, Javascript basics.
 
-**Today's Progress**: Complete the FreeCodecamp parts on jQuery
-
-**Thoughts**: Things I already knew but it's always nice to refresh the bases.
+**Thoughts**: I managed to clear 70 chalenge in 1 hour, I already master thoses basics.
 
 **Link(s) to work**: 
 -1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+
+-----------
+
+### Day 8: January 07, 2018 
+
+**Today's Progress**: Complete the FreeCodecamp parts on jQuery and start par 2 of budget manager tutorial
+
+**Thoughts**: Things I already knew but it's always nice to refresh the bases.
+On the budget manager I setup the vue app, also made the vue getting started.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+-2. [Vue get started](https://vuejs.org/v2/guide/)
+-3. [Budget Manager Tutorial part 1](https://codeburst.io/building-a-budget-manager-with-vue-js-and-node-js-part-ii-f08c410c944d)
+
 
 -----------
 
