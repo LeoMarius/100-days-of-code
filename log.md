@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 08, 2018 
+
+**Today's Progress**: Continue on FreeCodecamp, basic Javascript algorithms.
+
+**Thoughts**: More interesting with a bit more challenge, very similar to codewars. Cleared 10 of them, the rest is for tomorow.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+
+-----------
+
 ### Day 9: January 08, 2018 
 
 **Today's Progress**: Continue on FreeCodecamp, Javascript basics.
