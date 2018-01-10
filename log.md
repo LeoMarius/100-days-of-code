@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 10: January 08, 2018 
+### Day 11: January 10, 2018 
+
+**Today's Progress**: Continue on FreeCodecamp, Javascript algorithms.
+
+**Thoughts**: I try the intermediate algorithms, it's more challenging, only 5 chalenges done for today.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+
+-----------
+
+### Day 10: January 09, 2018 
 
 **Today's Progress**: Continue on FreeCodecamp, basic Javascript algorithms.
 
