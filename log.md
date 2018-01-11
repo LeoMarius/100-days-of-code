@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 11, 2018 
+
+**Today's Progress**: Finished the Basic Algorithm Scripting on FreeCodecamp.
+
+**Thoughts**: Just like the others days. :) I'm quite satified, I cleared this "50 hours" part in 3h sessions, my previous learning are still here.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+
+-----------
+
 ### Day 11: January 10, 2018 
 
 **Today's Progress**: Continue on FreeCodecamp, Javascript algorithms.
