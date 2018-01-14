@@ -1,5 +1,44 @@
 # 100 Days Of Code - Log
 
+
+### Day 15: January 14, 2018 
+
+**Today's Progress**: Continue on FreeCodecamp and start playing with ThreeJs
+
+**Thoughts**: I only made one Intermediate Algorithm to keep the strike, I will now find the equivalents on codewars to do them, better UI and feedback when finished.
+I made the basics setup with ThreeJs and then watched the all "Dive in Threejs" youtube playlist (lot of interesting stuff that I'm never use...)
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+-2. [CodeWars next algo](https://www.codewars.com/kata/single-word-pig-latin/train/javascript)
+-3. [ThreeJs basics](https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene)
+-4. [ThreeJs : Youtube Playlist](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf)
+https://www.youtube.com/watch?v=9fg93FzfamU&list=PLOGomoq5sDLutXOHLlESKG2j9CCnCwVqg
+
+------------
+
+### Day 14: January 13, 2018 
+
+**Today's Progress**: Continue on FreeCodecamp.
+
+**Thoughts**: I just made the Object Oriented and Functional Programming parts.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+
+------------
+
+### Day 13: January 12, 2018 
+
+**Today's Progress**: Continue on FreeCodecamp.
+
+**Thoughts**: Finished the Basic Javascript part.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+
+------------
+
 ### Day 12: January 11, 2018 
 
 **Today's Progress**: Finished the Basic Algorithm Scripting on FreeCodecamp.
