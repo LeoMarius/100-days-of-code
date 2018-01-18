@@ -1,6 +1,53 @@
 # 100 Days Of Code - Log
 
 
+### Day 19: January 18, 2018 
+
+**Today's Progress**: Continue on FreeCodecamp and some Arduino.
+
+**Thoughts**: I cleared the JSON and Ajax API part, I also work on some arduino code, getting a code cleaner and more efficient.
+I also started working on the Intermediate projects on freecodecamp.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+-2. [Arduino Hydroponie]()
+-3. [Codepen : Calculator + Meteo](https://codepen.io/LeoM/)
+
+------------
+
+### Day 18: January 17, 2018 
+
+**Today's Progress**: Continue on FreeCodecamp and some Arduino.
+
+**Thoughts**: I made one tricky algorithm and start worked on an Arduino project at work (hydroponie module).
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+-2. [Arduino Hydroponie]()
+
+------------
+
+### Day 17: January 16, 2018 
+
+**Today's Progress**: Continue on FreeCodecamp.
+
+**Thoughts**: Mostly medium agorythms chalenges, try to found equivalent on CodeWars.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+-2. [CodeWars](https://www.codewars.com/users/LeoMarius/completed)
+
+------------
+
+**Today's Progress**: Continue on FreeCodecamp.
+
+**Thoughts**: Mostly medium agorythms chalenges, try to found equivalent on CodeWars.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+-2. [CodeWars](https://www.codewars.com/users/LeoMarius/completed)
+
+------------
 ### Day 15: January 14, 2018 
 
 **Today's Progress**: Continue on FreeCodecamp and start playing with ThreeJs
@@ -13,7 +60,6 @@ I made the basics setup with ThreeJs and then watched the all "Dive in Threejs" 
 -2. [CodeWars next algo](https://www.codewars.com/kata/single-word-pig-latin/train/javascript)
 -3. [ThreeJs basics](https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene)
 -4. [ThreeJs : Youtube Playlist](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf)
-https://www.youtube.com/watch?v=9fg93FzfamU&list=PLOGomoq5sDLutXOHLlESKG2j9CCnCwVqg
 
 ------------
 
