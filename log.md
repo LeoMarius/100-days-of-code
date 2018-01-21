@@ -1,6 +1,42 @@
 # 100 Days Of Code - Log
 
 
+### Day 22: January 21, 2018 
+
+**Today's Progress**: Finished the tribute page for FreeCodeCamp
+
+**Thoughts**: I made a nice tribute page on Jean-Claude Van Damme, also add in it a start for the radom quote project.
+
+**Link(s) to work**: 
+-1. [Tribute to JCVD](https://codepen.io/LeoM/pen/LeqKgp)
+-2. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+
+
+------------
+
+### Day 21: January 20, 2018 
+
+**Today's Progress**: Not a lot of things today...
+
+**Thoughts**: I quickly worked on my projects for freecodecamp and mostly sleep.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+
+------------
+
+### Day 20: January 19, 2018 
+
+**Today's Progress**: Continue on FreeCodecamp and some Arduino.
+
+**Thoughts**: I made one tricky algorithm and start continued to work on an Arduino project at work.
+
+**Link(s) to work**: 
+-1. [FreeCodeCamp](https://www.freecodecamp.org/leomarius)
+-2. [Arduino Hydroponie]()
+
+------------
+
 ### Day 19: January 18, 2018 
 
 **Today's Progress**: Continue on FreeCodecamp and some Arduino.
